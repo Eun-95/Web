@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+<style>
+.container {
+	margin: 5% auto 8%;
+}
+.form
+{
+   margin: 2% auto;
+}
+
+
+.login {
+	font-size: 100px;
+	text-shadow: 0 0 10px #666;
+	color: #fff;
+	margin: 5% auto;
+	text-align: center;
+	font-family: "맑은 고딕";
+	font-style: italic;
+}
+
+.login1 {
+	text-align: center;
+	margin: 0 auto;
+	width: 64%;
+}
+
+.text {
+	padding-right: 57%;
+	font-size: 20px;
+}
+
+.input{
+	background: #f2f2f2;
+	width: 65%;
+	border: 0;
+	margin: 0 0 2.2%;
+	padding: 2.2%;
+	box-sizing: border-box;
+	font-size: 15px;
+}
+.hr
+{
+margin:10px;
+
+}
+
+
+.button {
+	margin: 15px;
+	width: 65%;
+	height: 55px;
+	background: #1ec545;
+	text-shadow: 0 1px rgba(0, 0, 0, .2);
+	font-size: 20px;
+	color: white;
+	border: 0;
+}
